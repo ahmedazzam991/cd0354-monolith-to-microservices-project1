@@ -33,3 +33,6 @@ kubectl logs {pod_name}
 ![replicas](https://user-images.githubusercontent.com/109697571/205722435-728d2ed0-2083-44dc-9ddc-33c95d216269.PNG)
 ![SVC](https://user-images.githubusercontent.com/109697571/205722440-946bdee0-15be-42ed-99c1-5f6bb50812e1.PNG)
 ![travis ci](https://user-images.githubusercontent.com/109697571/205722445-d3a68c1e-585c-45f3-8d88-f5771869d40d.PNG)
+
+![screenshots links inside readme](https://user-images.githubusercontent.com/109697571/205726422-36b06f19-fc3a-4f3c-8084-349ac144f8f1.PNG)
+
