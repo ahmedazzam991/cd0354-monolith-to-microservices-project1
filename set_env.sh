@@ -1,0 +1,11 @@
+# This file is used for convenience of local development.
+# DO NOT STORE YOUR CREDENTIALS INTO GIT
+export POSTGRES_USERNAME=azzam
+export POSTGRES_PASSWORD=smileforme
+export POSTGRES_HOST=postgres.cxthpmtwouhw.us-east-1.rds.amazonaws.com
+export POSTGRES_DB=postgres
+export AWS_BUCKET=test-220089361287-dev
+export AWS_REGION=us-east-1
+export AWS_PROFILE=default
+export JWT_SECRET=testing
+export URL=http://localhost:8100
